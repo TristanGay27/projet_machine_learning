@@ -14,3 +14,6 @@ Pour compiler ce projet, il faut les éléments suivants:
     - les packages : matplotlib,numpy,scipy,sklearn,math,numpy.random,seaborn,librosa,os,glob,re,tqdm,torch,pandas
 
 Remarque : pour éviter qu'un run all ne soit trop long, les pipelines avec les grid_serach ont été mises en commentaire.
+
+## Installation
+Pour installer le projet, il faut installer les librairies précédentes, puis cloner ce dépôt. Ensuite, vous pouvez vous rendre à l'adresse https://drive.google.com/drive/folders/1itjzYTVsTgoxeCKwO5PmU1cSURrjvmLi pour télécharger le dossier avec les données nécessaires au projet. Il faut mettre ce fichier texte dans le dossier cloner pour que le code soit fonctionnel.
