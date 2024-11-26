@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Ce dépôt git contient un projet de machine learning effectué lors du second semestre de la première année de la formation ModIA.
+Ce dépôt git contient un projet de machine learning effectué lors du second semestre de la première année de la formation ModIA en 4ème année.
 Ce projet parcourt différentes parties du programme étudié lors du semestre. L'objectif de ce projet est de classé des instructions orales pour un drone. Les instructions possibles sont "avance","recule" et "tourne gauche".
 Au travers de ce sujet, nous étudierons le pre-traitement des données, la sélection des variables, les analyses statistiques, et même les réseaux de neurones.
 
